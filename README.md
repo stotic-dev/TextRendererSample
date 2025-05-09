@@ -1,2 +1,5 @@
 # TextRendererSample
-SwiftUIのTextRendererを使ったサンプルプロジェクト
+
+SwiftUI の TextRenderer を使ったサンプルプロジェクト
+
+![Sample](Resouces/image.png)
